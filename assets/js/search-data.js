@@ -124,6 +124,13 @@ ninja.data = [{
           window.open("https://youtube.com/@erinjohnson3843", "_blank");
         },
       },{
+        id: 'social-instagram',
+        title: 'Instagram',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://instagram.com/erin.m.johnson_", "_blank");
+        },
+      },{
         id: 'social-rss',
         title: 'RSS Feed',
         section: 'Socials',
