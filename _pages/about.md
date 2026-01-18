@@ -33,4 +33,4 @@ Right now, I'm a student researcher at [ASDRP](https://www.asdrp.org/) (Aspiring
 
 I'm also interested in programming and machine learning.
 
-I started this blog to write about things I'm learning and thinking about, mostly related to science and the brain. Thanks for stopping by!
+I started this blog to write about things I'm learning and thinking about, mostly related to science. Thanks for stopping by!
