@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Computational biology, machine learning, and biochemistry
 
 profile:
   align: right
@@ -27,8 +27,12 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hi! I'm Erin, a sophomore at Mission San Jose High School in Fremont, California. I'm really interested in the intersection of computer science and biology — basically, how we can use code and data to understand living systems and solve problems in healthcare.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Right now, I'm a student researcher at [ASDRP](https://www.asdrp.org/) (Aspiring Scholars Directed Research Program), where I'm working on synthesizing and optimizing lipid nanoparticles for drug delivery. I've gotten pretty comfortable with lab equipment like centrifuges, speed vacs, and tip sonicators. Last summer, I also did a program at Stanford Pre-Collegiate where I studied biochemistry and worked on a project about CRISPR-Cas9 and gene editing.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+On the CS side, I completed the [Inspirit AI](https://www.inspiritai.com/) Scholars program, where I built a machine learning model to detect and track vehicles in traffic. I'm also a publicity officer for the CS Club at my school and a board member of Women in STEM.
+
+Outside of STEM, I play cello (I'm co-principal cellist in our school orchestra) and I sing — I actually got to perform a solo at Carnegie Hall after placing 3rd internationally in the American Protégé competition. I also volunteer weekly at [FCSN](https://fcsn1996.org/) teaching kids with developmental disabilities.
+
+I started this blog to write about things I'm learning and thinking about, mostly related to science and the brain. Thanks for stopping by!
