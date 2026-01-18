@@ -1,13 +1,13 @@
 ---
 layout: post
 title: what getting my wisdom teeth out taught me about anesthesia
-date: 2026-01-15 10:00:00
+date: 2025-12-28 10:00:00
 description: a small pouch of liquid knocked me out completely
 tags: neuroscience medicine
 categories: science
 ---
 
-A little over two weeks ago, I had all four of my wisdom teeth removed. I still remember timidly walking into the surgical room, being wrapped with a heated blanket, and getting plugged in with an oxygen supplement. It was nerve-wracking at first, but (thank god) it went great.
+A couple of days ago, I had all four of my wisdom teeth removed. I still remember timidly walking into the surgical room, being wrapped with a heated blanket, and getting plugged in with an oxygen supplement. It was nerve-wracking at first, but (thank god) it went great.
 
 Right before the surgery began, I was hooked up to an IV line that delivered anesthesia into my bloodstream. The surgeon told me she calls the anesthesia "vacation" for kids, and "happy hour" for adults. I thought that was pretty funny.
 
