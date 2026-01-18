@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Computational biology, machine learning, and biochemistry
+subtitle: Computational biology, programming and machine learning
 
 profile:
   align: right
