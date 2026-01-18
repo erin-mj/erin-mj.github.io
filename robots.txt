@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://erin-mj.github.io/sitemap.xml
+Sitemap: https://erinjohnson.space/sitemap.xml
