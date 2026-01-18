@@ -38,7 +38,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2026/what-anesthesia-taught-me/";
+            window.location.href = "/blog/2025/what-anesthesia-taught-me/";
           
         },
       },{id: "books-the-godfather",
