@@ -27,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi! I'm Erin, a sophomore at Mission San Jose High School in Fremont, California. I'm really interested in the intersection of computer science and biology: how we can use code and data to understand living systems and solve problems in healthcare.
+I'm Erin, a sophomore at Mission San José High School in Fremont, California. I'm really interested in the intersection of computer science and biology: how we can use code and data to understand living systems and solve problems in healthcare.
 
 Right now, I'm a student researcher at [ASDRP](https://www.asdrp.org/) (Aspiring Scholars Directed Research Program), where I'm working on synthesizing and optimizing lipid nanoparticles for drug delivery. Last summer, I also did a program at Stanford Pre-Collegiate where I studied biochemistry and worked on a project about CRISPR-Cas9 and gene editing.
 
