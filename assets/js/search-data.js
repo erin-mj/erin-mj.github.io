@@ -65,6 +65,13 @@ ninja.data = [{
           window.open("mailto:%65%72%69%6E.%6D%61%72%69%61.%6A%6F%68%6E%73%6F%6E+%77%65%62%73%69%74%65@%67%6D%61%69%6C.%63%6F%6D", "_blank");
         },
       },{
+        id: 'social-github',
+        title: 'GitHub',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://github.com/erin-mj", "_blank");
+        },
+      },{
         id: 'social-youtube',
         title: 'YouTube',
         section: 'Socials',
