@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <em>Computational biology, programming and machine learning</em>
+subtitle: <em>Computational biology, programming and machine learning.</em>
 
 profile:
   align: right
