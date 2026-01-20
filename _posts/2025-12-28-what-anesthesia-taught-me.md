@@ -13,7 +13,7 @@ Right before the surgery began, I was hooked up to an IV line that delivered ane
 
 For me, it felt like a giant black hole in my memory. I remember when the surgeon administered the first shot, and I remember asking how long it would take me to fall unconscious. Ironically, that's the last thing I remember before completely blacking out. A small pouch of liquid could completely knock me out. According to my mom, it was like I fell asleep, except I wouldn't answer when she called my name.
 
-But this was nothing like sleep.
+But this was nothing like sleep..
 
 According to MIT Professor Emery Brown, anesthesia is a "drug-induced, controlled, reversible coma." It's completely necessary - no anesthesia means unexplainable pain and trauma from surgery.
 
