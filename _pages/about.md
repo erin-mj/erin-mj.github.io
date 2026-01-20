@@ -9,8 +9,8 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Student</p>
-    <p>Mission San Jose High School</p>
+    <p>Student,</p>
+    <p>Mission San José High School</p>
     <p>Fremont, CA, USA</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
