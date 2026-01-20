@@ -27,10 +27,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi! I'm Erin, a sophomore at Mission San Jose High School in Fremont, California. I'm really interested in the intersection of computer science and biology — basically, how we can use code and data to understand living systems and solve problems in healthcare.
+Hi! I'm Erin, a sophomore at Mission San Jose High School in Fremont, California. I'm really interested in the intersection of computer science and biology: how we can use code and data to understand living systems and solve problems in healthcare.
 
 Right now, I'm a student researcher at [ASDRP](https://www.asdrp.org/) (Aspiring Scholars Directed Research Program), where I'm working on synthesizing and optimizing lipid nanoparticles for drug delivery. Last summer, I also did a program at Stanford Pre-Collegiate where I studied biochemistry and worked on a project about CRISPR-Cas9 and gene editing.
 
-I'm also interested in programming and machine learning. Outside of STEM, I'm into speech and debate — I compete in the Lincoln-Douglas debate format. I also love singing and music — you can check out some of my performances on [YouTube](https://www.youtube.com/@erinjohnson3843).
+I'm also interested in programming and machine learning. Outside of STEM, I'm into speech and debate: I compete in the Lincoln-Douglas debate format. I also love singing and music, and you can check out some of my performances on [YouTube](https://www.youtube.com/@erinjohnson3843).
 
 I started this blog to write about things I'm learning and thinking about, mostly related to science. Thanks for stopping by!
