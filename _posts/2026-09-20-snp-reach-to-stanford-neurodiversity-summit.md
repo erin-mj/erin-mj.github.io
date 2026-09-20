@@ -9,6 +9,15 @@ categories: projects
 
 Today, I had the privilege of speaking at the Stanford Neurodiversity Summit with the rest of my team, Project Ignite.
 
+<div class="row justify-content-sm-center">
+  <div class="col-sm-8 mt-3 mt-md-0">
+    {% include figure.liquid path="assets/img/project-ignite-summit-lanyard.jpg" title="My summit lanyard" class="img-fluid rounded z-depth-1" zoomable=true %}
+  </div>
+</div>
+<div class="caption">
+  My lanyard
+</div>
+
 Our journey started in July, when we all participated in the Stanford Neurodiversity Project's (SNP) REACH program. Our group leaders, Benji, Nora, and Antu, along with Dr. Lawrence Fung and the rest of the REACH team, taught us so much about neurodiversity.
 
 At SNP, we learned about the 5-step design process: empathize, define, ideate, prototype, and test. It's a nonlinear, iterative process that we used to build Project Ignite.
@@ -34,13 +43,4 @@ You can visit our website [here](https://project-ignite-60a6b.web.app/).
 </div>
 <div class="caption">
   Our team members at the summit!
-</div>
-
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/project-ignite-summit-lanyard.jpg" title="My summit lanyard" class="img-fluid rounded z-depth-1" zoomable=true %}
-  </div>
-</div>
-<div class="caption">
-  My lanyard
 </div>
