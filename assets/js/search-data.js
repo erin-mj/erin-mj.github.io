@@ -32,7 +32,7 @@ ninja.data = [{
           },
         },{id: "post-from-snp-reach-to-the-stanford-neurodiversity-summit",
         
-          title: "from SNP-REACH to the Stanford Neurodiversity Summit",
+          title: "From SNP-REACH to the Stanford Neurodiversity Summit",
         
         description: "how my team&#39;s summer project, Project Ignite, made it to the Stanford Neurodiversity Summit",
         section: "Posts",
@@ -43,7 +43,7 @@ ninja.data = [{
         },
       },{id: "post-what-getting-my-wisdom-teeth-out-taught-me-about-anesthesia",
         
-          title: "what getting my wisdom teeth out taught me about anesthesia",
+          title: "What getting my wisdom teeth out taught me about anesthesia",
         
         description: "a small pouch of liquid knocked me out completely",
         section: "Posts",
