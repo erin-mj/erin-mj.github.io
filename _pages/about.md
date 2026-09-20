@@ -27,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I'm Erin, a sophomore at Mission San José High School in Fremont, California. I'm really interested in the intersection of computer science and life sciences: how we can use code and data to understand living systems and solve problems in healthcare.
+I'm Erin, a student at Mission San José High School in Fremont, California. I'm really interested in the intersection of computer science and life sciences: how we can use code and data to understand living systems and solve problems in healthcare.
 
 I also love singing and music, and you can check out some of my performances on [YouTube](https://www.youtube.com/@erinjohnson3843).
 

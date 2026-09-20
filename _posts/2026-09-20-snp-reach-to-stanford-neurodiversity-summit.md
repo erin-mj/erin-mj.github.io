@@ -34,8 +34,6 @@ First, we created a podcast featuring interviews with neurodivergent individuals
 
 After presenting our work at the meeting, we were selected for the summit! I had the best time meeting new people, reconnecting with my teammates in person, and answering questions! I'm really grateful for this opportunity, and I'm definitely excited for what's ahead with Project Ignite!
 
-You can visit our website [here](https://project-ignite-60a6b.web.app/).
-
 <div class="row justify-content-sm-center">
   <div class="col-sm-8 mt-3 mt-md-0">
     {% include figure.liquid path="assets/img/project-ignite-summit-team.jpg" title="Project Ignite team at the summit" class="img-fluid rounded z-depth-1" zoomable=true %}
@@ -44,3 +42,5 @@ You can visit our website [here](https://project-ignite-60a6b.web.app/).
 <div class="caption">
   Our team members at the summit!
 </div>
+
+Want to follow along with Project Ignite? Visit our [website](https://project-ignite-60a6b.web.app/) and check out our [YouTube](https://www.youtube.com/@ProjectIgnite_snp)!
