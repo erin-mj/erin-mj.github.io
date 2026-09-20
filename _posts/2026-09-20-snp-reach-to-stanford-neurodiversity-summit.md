@@ -18,7 +18,7 @@ Today, I had the privilege of speaking at the Stanford Neurodiversity Summit wit
   My lanyard
 </div>
 
-Our journey started in July, when we all participated in the Stanford Neurodiversity Project's (SNP) REACH program. Our group leaders, Benji, Nora, and Antu, along with Dr. Lawrence Fung and the rest of the REACH team, taught us so much about neurodiversity.
+Our journey started in July, when we all participated in the Stanford Neurodiversity Project's (SNP) REACH program. Our group leaders, Benji, Nora, and Antu, along with [Dr. Lawrence Fung](https://profiles.stanford.edu/lawrence-fung) and the rest of the REACH team, taught us so much about neurodiversity.
 
 At SNP, we learned about the 5-step design process: empathize, define, ideate, prototype, and test. It's a nonlinear, iterative process that we used to build Project Ignite.
 
