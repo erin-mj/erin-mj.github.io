@@ -1,6 +1,6 @@
 ---
 layout: post
-title: what getting my wisdom teeth out taught me about anesthesia
+title: What getting my wisdom teeth out taught me about anesthesia
 date: 2025-12-28 10:00:00
 description: a small pouch of liquid knocked me out completely
 tags: neuroscience medicine

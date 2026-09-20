@@ -1,6 +1,6 @@
 ---
 layout: post
-title: from SNP-REACH to the Stanford Neurodiversity Summit
+title: From SNP-REACH to the Stanford Neurodiversity Summit
 date: 2026-09-20 10:00:00
 description: how my team's summer project, Project Ignite, made it to the Stanford Neurodiversity Summit
 tags: neurodiversity design
