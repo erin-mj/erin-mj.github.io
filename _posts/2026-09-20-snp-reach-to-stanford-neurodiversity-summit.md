@@ -43,4 +43,4 @@ After presenting our work at the meeting, we were selected for the summit! I had
   Our team members at the summit!
 </div>
 
-Want to follow along with Project Ignite? Visit our [website](https://project-ignite-60a6b.web.app/) and check out our [YouTube](https://www.youtube.com/@ProjectIgnite_snp)!
+Want to follow along with Project Ignite? Visit our [website](https://projectignite.app/) and check out our [YouTube](https://www.youtube.com/@ProjectIgnite_snp)!
